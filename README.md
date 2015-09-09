@@ -2,6 +2,8 @@
 
 An introduction for all the tools, libs, frameworks we use at DongyueStudio Web group.
 
+Also include all the interview questions.
+
 ## Tools
 
 - Git
