@@ -1,6 +1,6 @@
 # Vagrant
 
-> TODO: Vagrant is a xx
+> [Vagrant](https://www.vagrantup.com/): a tool for building and distributing development environments, create and configure lightweight, reproducible, and portable development environments.
 
 TODO:
 
