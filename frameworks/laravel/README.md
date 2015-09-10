@@ -1,5 +1,7 @@
 # Laravel framework
 
+> [Laravel](http://laravel.com/), the PHP framework for Web Artisans.
+
 TODO:
 
 - why laravel is better than ci for most cases
