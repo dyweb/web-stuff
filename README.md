@@ -1,8 +1,8 @@
-# web-stuff
+# Web Stuff
 
-An introduction for all the pattern, tools, libs, frameworks we use at DongyueStudio Web group.
+An introduction for all the pattern, tools, libs, frameworks we use in Web Group of Dongyue Studio.
 
-Also include all the interview questions.
+Also includes all interview questions.
 
 ## Pattern
 
@@ -11,26 +11,26 @@ Also include all the interview questions.
 ## Tools
 
 - Git
-- Phpstorm
+- PhpStorm
 - Vagrant
 
-## libs
+## Libs
 
 ## CSS
 
-- bootstrap
+- Bootstrap
 
 ## Frameworks
 
 ### PHP
 
-- Codeigniter
+- CodeIgniter
 - Laravel
 
-### Javascript
+### JavaScript
 
-- AngularJs
+- AngularJS
 
 ## Third party solutions
 
-- xunsearch
+- XunSearch
