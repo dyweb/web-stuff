@@ -16,4 +16,4 @@ This is a simple guide for git, and some useful links for git basics.
   - Ignore: Google 'gitignore' please.
   - CRLF: Google 'git crlf' please.
 
-It's a better idea to split them into different files
+_(Better to split them into different files someday...)_
