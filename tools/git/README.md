@@ -9,9 +9,11 @@ This is a simple guide for git, and some useful links for git basics.
 - [GitHub Git Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 - [Git Reference](http://git-scm.com/docs): Offical documentation and other stuff.
 - Commandline helpers: [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) (which includes a bunch of Git aliases and Git-related plugins, good enough when default), [git-radar](https://github.com/michaeldfallen/git-radar) (for even greed guys).
-
-TODO:
-
-- common problems, Merge, Pull rebase, gitignore, gitkeep, CRLF, gitattributes
+- Common problems:
+  - Vim: Manage basic vim usages, or change the git default editor, see also [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
+  - Merge: how to deal with confliction?
+  - Pull rebase: Google `git pull --rebase` please.
+  - Ignore: Google 'gitignore' please.
+  - CRLF: Google 'git crlf' please.
 
 It's a better idea to split them into different files
