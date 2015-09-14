@@ -32,3 +32,35 @@ DONT use system wide tool or lib, since they may not be installed on all machine
 - store config value in environment variables
 
 DONT use language or framework specific config like `database.yml` `console.properties`. 
+
+## Backing Services
+
+- site: http://12factor.net/backing-services
+- zh-cn: http://12factor.net/zh_cn/backing-services
+
+- local and remote services are all attached resources through network. ie: Database in local server and Amazon. 
+
+## Build release run
+
+- site: http://12factor.net/build-release-run
+- zh-cn: http://12factor.net/zh_cn/build-release-run
+
+- separate build, release and run. 
+- build, compile code, contact, compress etc. can be complex and show error messages to developer
+- release, build + config
+- run, launch app process against a selected release. should be simple.
+- able to rollback ie: Capistrano 
+
+## Processes
+
+- site: http://12factor.net/processes
+- zh-cn: http://12factor.net/zh_cn/processes
+
+- stateless, persist in database or cache. 
+
+## Port binding
+
+- site: http://12factor.net/port-binding
+- zh-cn: http://12factor.net/zh_cn/port-binding
+
+- have a build in http server, can become a backing service
