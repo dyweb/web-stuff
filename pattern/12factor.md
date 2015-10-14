@@ -64,3 +64,17 @@ DONT use language or framework specific config like `database.yml` `console.prop
 - zh-cn: http://12factor.net/zh_cn/port-binding
 
 - have a build in http server, can become a backing service
+
+## Concurrency 
+
+- site: http://12factor.net/concurrency
+- zh-cn: http://12factor.net/zh_cn/concurrency
+
+- use process to scale out
+- processes share nothing
+- use process managers to manage, such as upstart, foreman
+
+## Disposability
+
+－ site: http://12factor.net/disposability
+- zh-cn: 
