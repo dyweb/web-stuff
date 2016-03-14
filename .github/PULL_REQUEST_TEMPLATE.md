@@ -8,7 +8,7 @@
 
 [preview-mail]: link-to-a-screenshot-of-your-weekly-mail
 
-  <!-- Write your weekly email with [Weekly Template](http://arrowrowe.me/weekly-template). Choose an illustration from [Web Weekly Illustration](https://git.tongqu.me/snippets/6). -->
+  <!-- Write your weekly email with [Weekly Template](http://arrowrowe.me/weekly-template). Choose an illustration from [Web Weekly Illustration](https://git.tongqu.me/snippets/6) and choose colors for the template correspondingly. -->
 
 [尝鲜预览][preview-md]
 
