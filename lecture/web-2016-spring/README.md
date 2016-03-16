@@ -18,7 +18,7 @@
 
 ## 目录
 
-0. [基础开发环境](environment.md)
+0. 基础开发环境
 0. Git & Text Editor
 0. CSS 基础
 0. CSS: 布局 (一)
