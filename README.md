@@ -2,37 +2,18 @@
 
 [![Throughput Graph](https://graphs.waffle.io/dyweb/web-stuff/throughput.svg)](https://waffle.io/dyweb/web-stuff/metrics)
 
-An introduction for all the pattern, tools, libs, frameworks we use in Web Group of Dongyue Studio.
+Dongyue Web Studio web dev related resources, including
 
-Also includes all interview questions.
+- **[weekly](weekly)**
+- **[lecture](lecture)**
+- interview questions
+- patterns 12 factor
+- tools 
+- frameworks
 
-## Pattern
+## Other teams' repo
 
-- 12 factor
+- [Android](https://github.com/dyweb/android-stuff)
+- [iOS](https://github.com/dyweb/iOS-stuff)
 
-## Tools
-
-- Git
-- PhpStorm
-- Vagrant
-
-## Libs
-
-## CSS
-
-- Bootstrap
-
-## Frameworks
-
-### PHP
-
-- CodeIgniter
-- Laravel
-
-### JavaScript
-
-- AngularJS
-
-## Third party solutions
-
-- XunSearch
+[Know more about Dongyue Web Studio](http://dongyueweb.com/) We are working on the new version :)
