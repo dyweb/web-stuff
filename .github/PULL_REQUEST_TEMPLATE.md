@@ -9,3 +9,6 @@
 ```json
 # Copy JSON from Weekly Template
 ```
+
+[Weekly Template Generator]: http://arrowrowe.me/weekly-template
+[Weekly Illustrations]: https://git.tongqu.me/mie/draft/tree/master/weekly-illustrations
