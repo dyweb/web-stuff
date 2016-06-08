@@ -1,8 +1,4 @@
-<!-- Thanks for reporting an issue! Please make sure you click the link above to view the issue guidelines, then follow the steps below. -->
-
-<!-- If you're starting a weekly routine -->
-
-  <!-- Issue title should be: `Weekly for yyyy/mm/dd` -->
+<!-- This template is for Weekly routine. -->
 
 yyyy/mm/dd, 第a循环第b次, 总第n期 -> @(who?)
 
@@ -12,10 +8,3 @@ yyyy/mm/dd, 第a循环第b次, 总第n期 -> @(who?)
 - [ ] @arrowrowe
 - [ ] @ComMouse
 - [ ] @LukeXuan
-- [ ] @tq5124
-- [ ] @gaocegege
-- [ ] @Bluemit
-
-<!-- Otherwise... -->
-
-Just feel free.
