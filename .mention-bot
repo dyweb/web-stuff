@@ -1,0 +1,23 @@
+{
+  "maxReviewers": 5,
+  "numFilesToCheck": 10,
+  "message": "Thanks @pullRequester! Review please, @reviewers.",
+  "fallbackNotifyForPaths": [{
+    "name": "arrowrowe",
+    "files": ["**/*"]
+  }],
+  "findPotentialReviewers": true,
+  "fileBlacklist": [],
+  "userBlacklist": [],
+  "userBlacklistForPR": [],
+  "requiredOrgs": [],
+  "actions": ["opened"],
+  "skipAlreadyAssignedPR": false,
+  "skipAlreadyMentionedPR": false,
+  "assignToReviewer": true,
+  "skipTitle": "",
+  "withLabel": "",
+  "delayed": false,
+  "delayedUntil": "10 minutes",
+  "skipCollaboratorPR": false
+}
