@@ -8,3 +8,7 @@ yyyy/mm/dd, 第a循环第b次, 总第n期 -> @(who?)
 - [ ] @arrowrowe
 - [ ] @ComMouse
 - [ ] @LukeXuan
+- [ ] @kdplus
+- [ ] @Bluemit
+- [ ] @JasonQSY
+- [ ] @gaocegege
