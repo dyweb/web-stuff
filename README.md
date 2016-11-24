@@ -4,7 +4,7 @@
 
 Dongyue Web Studio web dev related resources, including
 
-- **[weekly](weekly)**
+- **[dyweb/weekly](https://github.com/dyweb/weekly)** (in place of [weekly](weekly))
 - **[lecture](lecture)**
 - interview questions
 - patterns 12 factor
